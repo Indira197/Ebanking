@@ -1,0 +1,3 @@
+BranchName%%%%BranchAdd%%%%BranchArea%%%%ZipCode%%%%Country%%%%State%%%%City
+mindqkph%%%%kphb%%%%jnuh%%%%12345%%%%INDIA%%%%GOA%%%%GOA####pass
+mindqsrh%%%%srhu%%%%klun%%%%56789%%%%INDIA%%%%GOA%%%%GOA####pass
